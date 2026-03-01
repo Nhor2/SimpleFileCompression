@@ -1,0 +1,13 @@
+C:\Users\lordm\source\repos2\SimpleLZWCompression\bin\Debug\SimpleLZWCompression.exe.config
+C:\Users\lordm\source\repos2\SimpleLZWCompression\bin\Debug\SimpleLZWCompression.exe
+C:\Users\lordm\source\repos2\SimpleLZWCompression\bin\Debug\SimpleLZWCompression.pdb
+C:\Users\lordm\source\repos2\SimpleLZWCompression\bin\Debug\SimpleLZWCompression.xml
+C:\Users\lordm\source\repos2\SimpleLZWCompression\obj\Debug\SimpleLZWCompression.vbproj.AssemblyReference.cache
+C:\Users\lordm\source\repos2\SimpleLZWCompression\obj\Debug\SimpleLZWCompression.Form1.resources
+C:\Users\lordm\source\repos2\SimpleLZWCompression\obj\Debug\SimpleLZWCompression.Resources.resources
+C:\Users\lordm\source\repos2\SimpleLZWCompression\obj\Debug\SimpleLZWCompression.vbproj.GenerateResource.cache
+C:\Users\lordm\source\repos2\SimpleLZWCompression\obj\Debug\SimpleLZWCompression.vbproj.CoreCompileInputs.cache
+C:\Users\lordm\source\repos2\SimpleLZWCompression\obj\Debug\SimpleLZWCompression.exe
+C:\Users\lordm\source\repos2\SimpleLZWCompression\obj\Debug\SimpleLZWCompression.xml
+C:\Users\lordm\source\repos2\SimpleLZWCompression\obj\Debug\SimpleLZWCompression.pdb
+C:\Users\lordm\source\repos2\SimpleLZWCompression\obj\Debug\SimpleLZWCompression.exe.config
