@@ -1,18 +1,22 @@
 # SimpleCompression
 
-
-
 !\[License](https://img.shields.io/badge/License-MIT-green.svg)
 
-!\[VB.NET](https://img.shields.io/badge/VB.NET-blue.svg)
 
-!\[WinForms](https://img.shields.io/badge/WinForms-.NET-lightblue.svg)
 
-!\[.NET Framework](https://img.shields.io/badge/.NET\_Framework-4.8.1-purple.svg)
+!\[VB.NET](https://img.shields.io/badge/Language-VB.NET-blue.svg)
+
+
+
+!\[WinForms](https://img.shields.io/badge/UI-WinForms-lightblue.svg)
+
+
+
+!\[.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8.1-purple.svg)
+
+
 
 !\[Platform](https://img.shields.io/badge/Platform-Windows-informational.svg)
-
-
 
 
 
